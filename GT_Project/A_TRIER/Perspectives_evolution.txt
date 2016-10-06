@@ -1,0 +1,39 @@
+PRESENTATION GT
+
+Différentes possibilités d’évolutions pour le jeux :
+
+- améliorer l'interface d'affichage
+- créer un menu avec jouer, options (difficultées, mode …), voir meilleurs score...
+-Grapgisme général :améliorer les textures et effets de lumières
+-faire une méthode de comptage de points plus complexe
+-faire une méthode de pivotage de la vue à 360 degré
+-portage sur android
+-faire différents types de formes autre que cube a mettre
+-faire un mode symetrie ou completer forme
+
+apprentissage et utilisation unity :
+-gameobject
+-script c#
+-geometrie dans l'espace
+-son
+-lumières
+…
+
+aspect pedagogique :
+VOIR MAIL GOBRON
++ SERIOUS GAME
+
+description du jeux actuel :
+-ce que représente les couleurs
+-la scene global
+-ATH
+-la grille et les formes prêt construites
+-la gestion des touches (game play)
+
+conclusion + pb rencontrés :
+-problèmes de développer en même temps qu'on apprend à utiliser un outil
+- manque de temps
+- ce jeux offre beaucoup de possibilités d'évolution et peut concrètement être intéressant à développer.
+-des tests sur des enfants peuvent permetrre de se rendre compte des défauts et choses à changer. Mais aussi de savoir qu'elle peut être l'utilité scientifique (perception dans l'espace ...) de ce SERIOUS GAME
+
+
